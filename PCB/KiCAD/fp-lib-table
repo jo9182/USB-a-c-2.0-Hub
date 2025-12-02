@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_USBHubwithnewconnectors_2025-12-02")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_USBHubwithnewconnectors_2025-12-02.pretty")(options "")(descr ""))
+)
