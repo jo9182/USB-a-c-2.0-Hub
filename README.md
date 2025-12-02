@@ -19,4 +19,10 @@ I put both available BOM options in since I wasn't sure which would be preferred
 * BOM.xlsx
 * BOM.csv
 * Gerber.zip
+* The Unzipped contents of Gerber.zip in the PCB/Gerber/ directory
 * PickAndPlace.xlsx
+
+Schematic            |
+:-------------------------:|
+![image](https://github.com/user-attachments/assets/6c08044f-4df9-43a0-8814-f9ec15ec70a3)
+
