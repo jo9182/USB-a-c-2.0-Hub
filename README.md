@@ -7,6 +7,8 @@ Made this because I though "what would be easy?" and was terribly mistaken! At l
 ---
 ## Project Overview
 
+This has been my second time doing anything like this, and it's my first time using EasyEDA to fully design and make something. As much as I loved EasyEDA, I can now say I prefer KiCAD! Now, if only KiCAD were as convenient with libraries...
+
 ### Features
 
 This things got two cutting-edge (I'm joking, this is all USB 2.0) USB-A ports and two USB-C ports. There's also a dashing little dragon on the top along with my usual username!
