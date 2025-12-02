@@ -1,2 +1,2 @@
-# USB-a-c-2.0-Hub
+# USB-A & C USB Hub
 For Hackclub's Blueprint YSWS.
